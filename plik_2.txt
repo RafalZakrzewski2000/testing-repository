@@ -1,1 +1,2 @@
 Piersza linia w drugim pliku
+Zmiana dokonywana na gałęzi first-branch
